@@ -1,0 +1,28 @@
+{
+  "name": "@tldc/material-colors",
+  "version": "1.0.1",
+  "description": "A Material Color Library for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/tldc/material-colors.git"
+  },
+  "keywords": [
+    "material",
+    "color",
+    "javascript",
+    "js"
+  ],
+  "author": "tldctech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/tldc/material-colors/issues"
+  },
+  "homepage": "https://gitlab.com/tldc/material-colors#readme"
+}

@@ -1,0 +1,16 @@
+const lightGreen = {
+    LIGHTGREEN50: "#F1F8E9",
+    LIGHTGREEN100: "#DCEDC8",
+    LIGHTGREEN200: "#C5E1A5",
+    LIGHTGREEN300: "#AED581",
+    LIGHTGREEN400: "#9CCC65",
+    LIGHTGREEN500: "#8BC34A",
+    LIGHTGREEN600: "#7CB342",
+    LIGHTGREEN700: "#689F38",
+    LIGHTGREEN800: "#558B2F",
+    LIGHTGREEN900: "#33691E",
+}
+
+Object.freeze(lightGreen);
+
+module.exports = lightGreen;
