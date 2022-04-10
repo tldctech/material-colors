@@ -1,0 +1,20 @@
+const lightBlue = {
+    LIGHTBLUE50: "#E1F5FE",
+    LIGHTBLUE100: "#B3E5FC",
+    LIGHTBLUE200: "#81D4FA",
+    LIGHTBLUE300: "#4FC3F7",
+    LIGHTBLUE400: "#29B6F6",
+    LIGHTBLUE500: "#03A9F4",
+    LIGHTBLUE600: "#039BE5",
+    LIGHTBLUE700: "#0288D1",
+    LIGHTBLUE800: "#0277BD",
+    LIGHTBLUE900: "#01579B",
+    LIGHTBLUE_A100: "#80D8FF",
+    LIGHTBLUE_A200: "#40C4FF",
+    LIGHTBLUE_A400: "#00B0FF",
+    LIGHTBLUE_A700: "#0091EA",
+}
+
+Object.freeze(lightBlue);
+
+module.exports = lightBlue;
