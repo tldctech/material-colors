@@ -21,3 +21,5 @@ const Color = require('@tldc/material-colors');
 console.log("Testing Color - 1: ", Color.TEAL500);
 console.log("Testing Color - 2: ", Color.RED_A200);
 ```
+
+## [Buy us a ☕ to keep our machine running!](https://www.buymeacoffee.com/tldc "Link to donate!")
